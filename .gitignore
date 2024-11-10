@@ -1,0 +1,21 @@
+# Sensitive configuration files
+config.ps1
+
+# Logs and output files
+*.log
+*.txt
+
+# PowerShell module and settings files
+*.ps1xml
+*.psm1
+*.psd1
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# VS Code workspace settings
+.vscode/
+
+# API responses or generated JSON data
+*.json
